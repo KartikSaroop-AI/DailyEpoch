@@ -1,3 +1,13 @@
+<p align="center" style="margin: 0; padding: 0;">
+  <img 
+    src="https://github.com/KartikSaroop-AI/DailyEpoch/blob/main/dailyepoch.png.png"
+    alt="DailyEpoch Banner"
+    width="1000"
+    height="300"
+    style="display: block; object-fit: cover; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);"
+  />
+</p>
+
 <h1 align="center">🗓️ DailyEpoch</h1>
 <p align="center">A daily research journal capturing my evolving journey through Machine Learning, Deep Learning, Artificial Intelligence, Python, and Large Language Models — one gradient step at a time.</p>
 
