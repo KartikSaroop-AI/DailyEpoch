@@ -26,13 +26,26 @@
 ---
 
 ## 🧠 About
-**DailyEpoch** is a curated academic journal of daily progress across **ML, DL, AI, Python**, and **LLMs**. Each entry blends **theory**, **mathematics**, and **code**, emphasizing clarity, rigor, and reproducibility suitable for a research portfolio.
+**DailyEpoch** is a curated academic journal of daily progress across **Machine Learning, Deep Learning, Artificial Intelligence, Python**, and **Large Language Models (LLMs)**.  
+Each entry blends **theory**, **mathematics**, and **code experimentation** — structured to demonstrate clarity, rigor and reproducibility consistent with a research-portfolio aligned with admission to institutes like MILA.
 
-> “Learning is gradient descent—small, directed steps that compound into understanding.”
+> “Learning is gradient descent — small, directed steps that compound into understanding.”
 
 ---
 
-## 🗓️ Daily Entry Template
-Copy this block into each day’s folder (e.g., `2025/Day_001_2025-11-09_Linear_Regression/Notes.md`) and fill it out.
+
+## 📅 Daily Logs
+
+> *Visual tracker of my daily learning — bridging research and reproducible practice.*
+
+| 🧭 **Day** | 📅 **Date** | 🧠 **Topic / Focus** | 💻 **Artifacts** | 🧩 **Highlights** | 🏁 **Progress** |
+|:-----------:|:------------:|:--------------------|:-----------------|:------------------|:----------------:|
+| **01** | 2025-11-09 | Linear Regression Fundamentals | [📘 Notes](2025/Day_001_2025-11-09_Linear_Regression/Notes.md) <br> [💻 Code](2025/Day_001_2025-11-09_Linear_Regression/Code.ipynb) | Derived cost function, implemented gradient descent, visualized loss convergence. | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
+| **02** | 2025-11-10 | NumPy & Vectorization | [📘 Notes](2025/Day_002_2025-11-10_NumPy/Notes.md) <br> [💻 Code](2025/Day_002_2025-11-10_NumPy/Practice.ipynb) | Explored matrix ops, broadcasting, data preprocessing efficiency. | ![Done](https://img.shields.io/badge/Status-Completed-green?style=flat-square) |
+| **03** | 2025-11-11 | Logistic Regression & Classification | [📘 Notes](2025/Day_003_2025-11-11_Logistic_Regression/Notes.md) | Implemented sigmoid, binary classification metrics, ROC curves. | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
+| **04** | 2025-11-12 | Feature Scaling & Normalization | [📘 Notes](2025/Day_004_2025-11-12_Feature_Scaling/Notes.md) | Compared scaling techniques and observed training speed improvements. | ![Planned](https://img.shields.io/badge/Status-Upcoming-lightgrey?style=flat-square) |
+
+---
+
 
 
