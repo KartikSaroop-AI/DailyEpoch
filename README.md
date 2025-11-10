@@ -46,14 +46,37 @@ Each entry blends **theory**, **mathematics**, and **code experimentation** — 
 
 ## 📅 Daily Logs
 
-> *Visual tracker of my daily learning — bridging research and reproducible practice.*
+> *A visual tracker of my continuous AI learning — documenting progress, research insights, and reproducible experiments.*
 
-| 🧭 **Day** | 📅 **Date** | 🧠 **Topic / Focus** | 💻 **Artifacts** | 🧩 **Highlights** | 🏁 **Progress** |
-|:-----------:|:------------:|:--------------------|:-----------------|:------------------|:----------------:|
-| **01** | 2025-11-09 | Linear Regression Fundamentals | [📘 Notes](2025/Day_001_2025-11-09_Linear_Regression/Notes.md) <br> [💻 Code](2025/Day_001_2025-11-09_Linear_Regression/Code.ipynb) | Derived cost function, implemented gradient descent, visualized loss convergence. | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
-| **02** | 2025-11-10 | NumPy & Vectorization | [📘 Notes](2025/Day_002_2025-11-10_NumPy/Notes.md) <br> [💻 Code](2025/Day_002_2025-11-10_NumPy/Practice.ipynb) | Explored matrix ops, broadcasting, data preprocessing efficiency. | ![Done](https://img.shields.io/badge/Status-Completed-green?style=flat-square) |
-| **03** | 2025-11-11 | Logistic Regression & Classification | [📘 Notes](2025/Day_003_2025-11-11_Logistic_Regression/Notes.md) | Implemented sigmoid, binary classification metrics, ROC curves. | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
-| **04** | 2025-11-12 | Feature Scaling & Normalization | [📘 Notes](2025/Day_004_2025-11-12_Feature_Scaling/Notes.md) | Compared scaling techniques and observed training speed improvements. | ![Planned](https://img.shields.io/badge/Status-Upcoming-lightgrey?style=flat-square) |
+| 📅 **Date** | 🧠 **Topic / Focus** | 🔑 **Key Concepts** | 🧩 **Highlights** | 💻 **Artifacts** | 🏁 **Status** |
+|:-----------:|:--------------------|:--------------------|:------------------|:-----------------|:--------------|
+| **2025-11-09** | **Generative Adversarial Networks (GANs)** | Adversarial Learning, Generator–Discriminator Architecture, Minimax Optimization, Latent Space Mapping, Divergence Minimization | **1.** GANs employ an adversarial setup with Generator and Discriminator networks. <br> **2.** Generator learns to synthesize realistic data from noise. <br> **3.** Training follows a minimax optimization paradigm. <br> **4.** Latent space encodes high-dimensional data features.  | [📘 Notes (PDF)](Docs/GAN.pdf) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
+| **2025-11-10** | **Convolutional Neural Networks (CNNs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/CNN_Fundamentals.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-11** | **Recurrent Neural Networks (RNNs) & LSTMs** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/RNN_LSTM.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-12** | **Transformers & Attention Mechanisms** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Transformers_Attention.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-13** | **Large Language Models (LLMs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/LLMs_Fundamentals.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-14** | **Natural Language Processing (NLP) Basics** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/NLP_Basics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-15** | **Word Embeddings & Word2Vec** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Word2Vec.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-16** | **BERT & Transformer Fine-Tuning** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/BERT_FineTuning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-17** | **Dimensionality Reduction (PCA & t-SNE)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Dimensionality_Reduction.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-18** | **Feature Engineering & Selection** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Feature_Engineering.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-19** | **Regression Models (Linear & Logistic)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Regression_Models.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-20** | **Decision Trees & Random Forests** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Decision_Trees.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-21** | **Support Vector Machines (SVMs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/SVM.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-22** | **Clustering Techniques (K-Means, DBSCAN)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Clustering_Techniques.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-23** | **Ensemble Learning (Bagging & Boosting)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Ensemble_Learning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-24** | **Model Evaluation Metrics** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Evaluation_Metrics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-25** | **Bias–Variance Tradeoff** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Bias_Variance.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-26** | **Gradient Descent & Optimization Algorithms** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Optimization_Algorithms.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-27** | **Hyperparameter Tuning & Regularization** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Hyperparameter_Tuning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+| **2025-11-28** | **AI Ethics & Responsible AI** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/AI_Ethics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
+
+
+
+
+
+
+
 
 ---
 
