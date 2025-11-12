@@ -34,51 +34,74 @@
 
 
 ---
-
-## 🧠 About
-**DailyEpoch** is a curated academic journal of daily progress across **Machine Learning, Deep Learning, Artificial Intelligence, Python**, and **Large Language Models (LLMs)**.  
-Each entry blends **theory**, **mathematics**, and **code experimentation** — structured to demonstrate clarity, rigor and reproducibility consistent with a research-portfolio aligned with admission to institutes like MILA.
-
-> “Learning is gradient descent — small, directed steps that compound into understanding.”
+## 📅 Daily Logs  
+> *A living journal of my AI learning — capturing insights, experiments, and breakthroughs.*
 
 ---
 
+### 🗓️ **2025-11-09 — Generative Adversarial Networks (GANs)**  
+**🔑 Key Concepts:** Adversarial Learning · Generator–Discriminator Architecture · Minimax Optimization · Latent Space Mapping · Divergence Minimization  
 
-## 📅 Daily Logs
+**🧠 Summary:**  
+GANs introduce a competitive framework where two neural networks — the *Generator* and the *Discriminator* — learn through opposition.  
+The Generator crafts synthetic data, while the Discriminator sharpens its ability to distinguish fake from real.  
+Through iterative minimax optimization, GANs evolve toward equilibrium, producing strikingly realistic data samples.  
 
-> *A visual tracker of my continuous AI learning — documenting progress, research insights, and reproducible experiments.*
-
-| 📅 **Date** | 🧠 **Topic / Focus** | 🔑 **Key Concepts** | 🧩 **Highlights** | 💻 **Artifacts** | 🏁 **Status** |
-|:-----------:|:--------------------|:--------------------|:------------------|:-----------------|:--------------|
-| **2025-11-09** | **Generative Adversarial Networks (GANs)** | Adversarial Learning, Generator–Discriminator Architecture, Minimax Optimization, Latent Space Mapping, Divergence Minimization | **1.** GANs employ an adversarial setup with Generator and Discriminator networks. <br> **2.** Generator learns to synthesize realistic data from noise. <br> **3.** Training follows a minimax optimization paradigm. <br> **4.** Latent space encodes high-dimensional data features.  | [📘 Notes (PDF)](https://github.com/KartikSaroop-AI/NeuroVerse/blob/main/Docs/GAN.pdf) |![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)|
-| **2025-11-10** | **Convolutional Neural Networks (CNNs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/CNN_Fundamentals.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-11** | **Recurrent Neural Networks (RNNs) & LSTMs** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/RNN_LSTM.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-12** | **Transformers & Attention Mechanisms** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Transformers_Attention.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-13** | **Large Language Models (LLMs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/LLMs_Fundamentals.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-14** | **Natural Language Processing (NLP) Basics** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/NLP_Basics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-15** | **Word Embeddings & Word2Vec** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Word2Vec.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-16** | **BERT & Transformer Fine-Tuning** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/BERT_FineTuning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-17** | **Dimensionality Reduction (PCA & t-SNE)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Dimensionality_Reduction.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-18** | **Feature Engineering & Selection** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Feature_Engineering.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-19** | **Regression Models (Linear & Logistic)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Regression_Models.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-20** | **Decision Trees & Random Forests** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Decision_Trees.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-21** | **Support Vector Machines (SVMs)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/SVM.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-22** | **Clustering Techniques (K-Means, DBSCAN)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Clustering_Techniques.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-23** | **Ensemble Learning (Bagging & Boosting)** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Ensemble_Learning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-24** | **Model Evaluation Metrics** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Evaluation_Metrics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-25** | **Bias–Variance Tradeoff** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Bias_Variance.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-26** | **Gradient Descent & Optimization Algorithms** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Optimization_Algorithms.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-27** | **Hyperparameter Tuning & Regularization** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/Hyperparameter_Tuning.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-| **2025-11-28** | **AI Ethics & Responsible AI** | *To be added* | *Highlights will be added after completion* | [📘 Notes (PDF)](Docs/AI_Ethics.pdf) | ![Planned](https://img.shields.io/badge/Status-Planned-blue?style=flat-square) |
-
-
-
-
-
-
-
+**📘 Resources:**  
+- [Notes: Generative Adversarial Networks (GANs)](https://github.com/KartikSaroop-AI/NeuroVerse/blob/main/Docs/GAN.pdf)
 
 ---
 
+### 🗓️ **2025-11-11 — Convolutional Neural Networks (CNNs)**  
+**🔑 Key Concepts:** Convolution Operation · Padding · Pooling · Feature Extraction · Spatial Hierarchies  
 
+**🧠 Summary:**  
+CNNs are the backbone of computer vision systems, designed to process spatial hierarchies of features.  
+Convolution layers extract local patterns, padding preserves boundary information, and pooling reduces dimensionality while maintaining salient features.  
+This structured perception allows machines to recognize edges, textures, and complex objects across images.  
 
+**📘 Resources:**  
+- [CNN Overview](Docs/CNN.pdf)  
+- [From Pixels to Perception](Docs/CNNimportance.pdf)  
+- [Padding in CNNs](Docs/padding.pdf)  
+- [Convolution Layers](Docs/Convolutionlayers.pdf)  
+- [Pooling Layers](Docs/Poolinglayers.pdf)
+
+---
+
+### 🗓️ **2025-11-12 — Recurrent Neural Networks (RNNs) & LSTMs**  
+**🔑 Key Concepts:** Temporal Sequences · Gradient Flow · Memory Cells · Vanishing Gradient Mitigation  
+
+**🧠 Summary:**  
+RNNs process sequential data by maintaining contextual memory across time steps.  
+LSTMs extend this with gated mechanisms that regulate information flow — enabling stable long-term dependency learning and preventing gradient decay.  
+
+**📘 Resources:**  
+- [Notes: RNNs & LSTMs](Docs/RNN_LSTM.pdf)
+
+---
+
+### 🗓️ **2025-11-13 — Transformers & Attention Mechanisms**  
+**🔑 Key Concepts:** Self-Attention · Positional Encoding · Encoder–Decoder Architecture  
+
+**🧠 Summary:**  
+Transformers revolutionize deep learning by replacing recurrence with attention.  
+They capture contextual dependencies globally, allowing parallel computation and unprecedented scalability in natural language and vision tasks.  
+
+**📘 Resources:**  
+- [Notes: Transformers & Attention](Docs/Transformers_Attention.pdf)
+
+---
+
+### 🗓️ **2025-11-14 — Large Language Models (LLMs)**  
+**🔑 Key Concepts:** Context Windows · Tokenization · Pretraining · Fine-Tuning  
+
+**🧠 Summary:**  
+LLMs extend Transformer architectures to billion-parameter scales, capable of few-shot reasoning and semantic generalization.  
+Their emergent behaviors stem from massive pretraining across diverse modalities, bridging perception and cognition.  
+
+**📘 Resources:**  
+- [Notes: Large Language Models](Docs/LLMs_Fundamentals.pdf)
+
+**Insight:** NLP pipelines convert language into analyzable form — weighting words and extracting semantics that power text-based AI models.  
+**Notes:** [NLP Basics](Docs/NLP_Basics.pdf)  
