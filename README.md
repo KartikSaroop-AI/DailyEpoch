@@ -1,6 +1,6 @@
 <p align="center" style="margin: 0; padding: 0;">
   <img 
-    src="https://github.com/KartikSaroop-AI/DailyEpoch/blob/main/dailyepoch.png.png"
+    src="https://github.com/KartikSaroop-AI/DailyEpoch/blob/main/daily.png.png"
     alt="DailyEpoch Banner"
     width="1000"
     height="300"
