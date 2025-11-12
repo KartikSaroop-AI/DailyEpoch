@@ -34,74 +34,89 @@
 
 
 ---
-## 📅 Daily Logs  
-> *A living journal of my AI learning — capturing insights, experiments, and breakthroughs.*
+## 🧭 Daily Logs — AI Learning Chronicle  
+> *“Recording daily gradients of intelligence and discovery.”*
 
 ---
 
-### 🗓️ **2025-11-09 — Generative Adversarial Networks (GANs)**  
-**🔑 Key Concepts:** Adversarial Learning · Generator–Discriminator Architecture · Minimax Optimization · Latent Space Mapping · Divergence Minimization  
+### 📅 **2025-11-09**
 
-**🧠 Summary:**  
-GANs introduce a competitive framework where two neural networks — the *Generator* and the *Discriminator* — learn through opposition.  
-The Generator crafts synthetic data, while the Discriminator sharpens its ability to distinguish fake from real.  
-Through iterative minimax optimization, GANs evolve toward equilibrium, producing strikingly realistic data samples.  
-
-**📘 Resources:**  
-- [Notes: Generative Adversarial Networks (GANs)](https://github.com/KartikSaroop-AI/NeuroVerse/blob/main/Docs/GAN.pdf)
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Generative Adversarial Networks (GANs)** | Adversarial Learning, Generator–Discriminator, Minimax Optimization, Latent Space | GANs consist of two competing networks — a Generator that creates data and a Discriminator that distinguishes real from fake. Through adversarial training, both improve iteratively, enabling realistic data synthesis. | [📘 GAN Notes (PDF)](Docs/GAN.pdf) |
 
 ---
 
-### 🗓️ **2025-11-11 — Convolutional Neural Networks (CNNs)**  
-**🔑 Key Concepts:** Convolution Operation · Padding · Pooling · Feature Extraction · Spatial Hierarchies  
+### 📅 **2025-11-11**
 
-**🧠 Summary:**  
-CNNs are the backbone of computer vision systems, designed to process spatial hierarchies of features.  
-Convolution layers extract local patterns, padding preserves boundary information, and pooling reduces dimensionality while maintaining salient features.  
-This structured perception allows machines to recognize edges, textures, and complex objects across images.  
-
-**📘 Resources:**  
-- [CNN Overview](Docs/CNN.pdf)  
-- [From Pixels to Perception](Docs/CNNimportance.pdf)  
-- [Padding in CNNs](Docs/padding.pdf)  
-- [Convolution Layers](Docs/Convolutionlayers.pdf)  
-- [Pooling Layers](Docs/Poolinglayers.pdf)
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Convolutional Neural Networks (CNNs)** | Convolution, Padding, Pooling, Feature Maps, Spatial Hierarchies | CNNs extract hierarchical features from images, preserve details through padding, and enhance efficiency via pooling — foundational to modern computer vision. | [📘 CNN Overview](Docs/CNN.pdf) · [📘 Padding](Docs/padding.pdf) · [📘 Pooling Layers](Docs/Poolinglayers.pdf) |
 
 ---
 
-### 🗓️ **2025-11-12 — Recurrent Neural Networks (RNNs) & LSTMs**  
-**🔑 Key Concepts:** Temporal Sequences · Gradient Flow · Memory Cells · Vanishing Gradient Mitigation  
+### 📅 **2025-11-12**
 
-**🧠 Summary:**  
-RNNs process sequential data by maintaining contextual memory across time steps.  
-LSTMs extend this with gated mechanisms that regulate information flow — enabling stable long-term dependency learning and preventing gradient decay.  
-
-**📘 Resources:**  
-- [Notes: RNNs & LSTMs](Docs/RNN_LSTM.pdf)
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Recurrent Neural Networks (RNNs) & LSTMs** | Sequential Data, Temporal Dependencies, Gradient Flow, Memory Cells | RNNs process sequential information, while LSTMs overcome vanishing gradients by introducing gates that control information flow for long-term memory. | [📘 RNN_LSTM.pdf](Docs/RNN_LSTM.pdf) |
 
 ---
 
-### 🗓️ **2025-11-13 — Transformers & Attention Mechanisms**  
-**🔑 Key Concepts:** Self-Attention · Positional Encoding · Encoder–Decoder Architecture  
+### 📅 **2025-11-13**
 
-**🧠 Summary:**  
-Transformers revolutionize deep learning by replacing recurrence with attention.  
-They capture contextual dependencies globally, allowing parallel computation and unprecedented scalability in natural language and vision tasks.  
-
-**📘 Resources:**  
-- [Notes: Transformers & Attention](Docs/Transformers_Attention.pdf)
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Transformers & Attention Mechanisms** | Self-Attention, Multi-Head Attention, Positional Encoding | Transformers revolutionize sequence modeling by replacing recurrence with attention — allowing global context understanding and parallel computation. | [📘 Transformers.pdf](Docs/Transformers_Attention.pdf) |
 
 ---
 
-### 🗓️ **2025-11-14 — Large Language Models (LLMs)**  
-**🔑 Key Concepts:** Context Windows · Tokenization · Pretraining · Fine-Tuning  
+### 📅 **2025-11-14**
 
-**🧠 Summary:**  
-LLMs extend Transformer architectures to billion-parameter scales, capable of few-shot reasoning and semantic generalization.  
-Their emergent behaviors stem from massive pretraining across diverse modalities, bridging perception and cognition.  
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Large Language Models (LLMs)** | Context Windows, Tokenization, Emergent Behavior, Pretraining | LLMs leverage massive transformer architectures to learn language representations and exhibit emergent reasoning from large-scale data. | [📘 LLMs_Fundamentals.pdf](Docs/LLMs_Fundamentals.pdf) |
 
-**📘 Resources:**  
-- [Notes: Large Language Models](Docs/LLMs_Fundamentals.pdf)
+---
 
-**Insight:** NLP pipelines convert language into analyzable form — weighting words and extracting semantics that power text-based AI models.  
-**Notes:** [NLP Basics](Docs/NLP_Basics.pdf)  
+### 📅 **2025-11-15**
+
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Natural Language Processing (NLP) Basics** | Tokenization, Lemmatization, Text Vectorization | NLP enables machines to interpret language through preprocessing, feature extraction, and semantic representation. | [📘 NLP_Basics.pdf](Docs/NLP_Basics.pdf) |
+
+---
+
+### 📅 **2025-11-16**
+
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Word Embeddings (Word2Vec & GloVe)** | Distributed Representation, Context Windows, Semantic Similarity | Word embeddings capture semantic meaning by mapping words into dense vector spaces, enabling contextual understanding for downstream NLP tasks. | [📘 Word2Vec.pdf](Docs/Word2Vec.pdf) |
+
+---
+
+### 📅 **2025-11-17**
+
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Dimensionality Reduction (PCA, t-SNE)** | Variance, Eigenvectors, Manifold Learning | Dimensionality reduction simplifies complex data while preserving structure, aiding visualization and feature compression. | [📘 Dimensionality_Reduction.pdf](Docs/Dimensionality_Reduction.pdf) |
+
+---
+
+### 📅 **2025-11-18**
+
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Feature Engineering & Selection** | Normalization, Encoding, Feature Importance | Proper feature design improves model interpretability and performance by emphasizing relevant variables. | [📘 Feature_Engineering.pdf](Docs/Feature_Engineering.pdf) |
+
+---
+
+### 📅 **2025-11-19**
+
+| **Topic** | **Key Concepts** | **Summary** | **Artifacts** |
+|:-----------|:-----------------|:-------------|:---------------|
+| **Regression Models (Linear & Logistic)** | Loss Minimization, Sigmoid, Gradient Descent | Regression models establish statistical relationships; logistic regression extends this for binary classification through non-linear mapping. | [📘 Regression_Models.pdf](Docs/Regression_Models.pdf) |
+
+---
+
+> 🧩 *“Every day logged is another gradient in the space of understanding.”*
