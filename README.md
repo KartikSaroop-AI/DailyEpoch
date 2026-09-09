@@ -1,131 +1,129 @@
+<div align="center">
 
+# 🗓️ DailyEpoch
 
+### **An Engineering Journal — One Day, One Concept, One Commit at a Time**
 
-<h1 align="center">🗓️ DailyEpoch</h1>
+**Building toward AI Platform Engineering from models to production infrastructure.**
 
-<p align="center">
-<b>Building one day at a time toward becoming an AI Platform Engineer.</b>
-</p>
+<br>
 
-<p align="center">
-DailyEpoch is my public engineering journal documenting everything I learn while preparing for a career in <b>AI Platform Engineering</b>, <b>AI Infrastructure</b>, and <b>Forward Deployed Engineering</b>. This repository captures my daily progress across Artificial Intelligence, Machine Learning, Linux, Cloud Computing, Kubernetes, DevOps, MLOps, and production AI systems through structured notes, experiments, architecture diagrams, code, and hands-on projects.
-</p>
+DailyEpoch is my public engineering journal documenting what I learn while building toward a career in **AI Platform Engineering**, **AI Infrastructure**, and **Forward Deployed Engineering**.
 
----
+From algorithms and model architectures to GPUs, Linux, cloud infrastructure, Kubernetes, MLOps, and production AI systems — each entry captures another layer of the engineering stack.
 
-<p align="center">
+<br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-Systems-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-Infrastructure-Engineering-76B900?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-Computing-FF9900?style=for-the-badge">
+<img src="https://img.shields.io/badge/DevOps-Automation-2496ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLOps-Production-009688?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Algorithms-blue?style=for-the-badge">
+<br><br>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 
-<img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/MLOps-Production-green?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux">
-
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git">
-
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
-
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python">
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi">
-
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch">
-
-</p>
+</div>
 
 ---
 
-# 🎯 Mission
+# 📒 Engineering Logbook
 
-DailyEpoch is more than a collection of notes—it's my engineering logbook.
+> **Building AI systems from algorithms to production infrastructure — one day at a time.**
 
-I'm documenting my journey from AI fundamentals to designing, deploying, and operating production-ready AI systems.
+This is the core of **DailyEpoch**.
 
-Every concept I study is accompanied by practical understanding through notes, experiments, architecture diagrams, code, cloud services, and projects.
+Each entry records a concept I studied, why it matters in real systems, what I learned from it, and the artifact produced during that learning session.
 
-My goal is to build the knowledge and engineering mindset required for roles such as:
+| **#** | **Date** | **Domain** | **Topic** | **Production Relevance** | **Key Takeaways** | **Artifacts** |
+|:----:|:---------|:-----------|:----------|:--------------------------|:------------------|:--------------|
+| 001 | 2026-08-27 | ⚡ AI Infrastructure | **CPU Architecture and Memory Hierarchy: Cores, Cache, RAM, and Data Access** | CPU architecture and memory hierarchy influence compute performance, data movement, latency, resource utilization, and interaction with accelerators in modern AI infrastructure. | Studied CPU cores, instruction execution, cache levels, RAM, memory hierarchy, data-access latency, and why efficient data movement matters to system performance. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/CPU-Architecture-and-Memory-Hierarchy.pdf) |
+| 002 | 2026-09-08 | 🧠 Language Models | **Transformers: Architecture, Self-Attention, and Modern Language Models** | Transformers provide the architectural foundation for modern LLMs, enabling parallel sequence processing, scalable training, and context-aware representations through attention mechanisms. | Studied Transformer architecture, self-attention, multi-head attention, positional encoding, encoder-decoder structure, feed-forward networks, residual connections, and their role in modern language models. | [📘 Notes](https://github.com/themodernengineer-tech/LanguageForge/blob/main/Docs/Transformers/transformers.pdf) |
+| 003 | 2026-09-09 | ⚡ AI Infrastructure | **NVIDIA Infrastructure: CUDA and TensorRT Overview** | CUDA provides the accelerated computing foundation for NVIDIA GPUs, while TensorRT optimizes trained models for high-performance inference in production environments. | Studied the CUDA software ecosystem, GPU acceleration, TensorRT inference optimization, and how these technologies connect AI applications with NVIDIA GPU infrastructure. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/NVIDIA-Infrastructure-CUDA-and-TensorRT-Overview.pdf) |
 
-- AI Platform Engineer
-- AI Infrastructure Engineer
-- Forward Deployed Engineer
-- MLOps Engineer
-- Machine Learning Engineer
+<br>
+
 
 ---
 
-# 🚀 Learning Philosophy
+# 🎯 Why DailyEpoch?
 
-I believe that consistent progress compounds over time.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Rather than simply consuming tutorials, I document every learning session to reinforce understanding and create a public record of my growth.
+### 🎯 The Mission
 
-For every topic I learn, I try to answer five questions:
+Build the technical depth and systems mindset required to understand AI **from model architecture to production infrastructure**.
 
-- What is it?
-- Why does it matter?
-- How does it work?
-- Where is it used in production?
-- What did I build or experiment with?
+The long-term direction is toward engineering roles involving:
 
-This repository follows the philosophy of **Learning in Public**, where every day adds another small step toward mastering AI systems and cloud infrastructure.
+- AI Platform Engineering
+- AI Infrastructure
+- Forward Deployed Engineering
+- MLOps
+- Machine Learning Systems
+
+</td>
+<td width="50%" valign="top">
+
+
 
 ---
 
 # 🧠 Learning Domains
 
-## 🤖 Artificial Intelligence
+Rather than treating AI, infrastructure, cloud, and operations as separate disciplines, DailyEpoch follows how they connect to form a production AI system.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 AI & Models
 
 - Machine Learning
 - Deep Learning
 - Neural Networks
 - Computer Vision
-- Natural Language Processing
+- NLP
 - Transformers
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
+- LLMs
+- Generative AI
+- RAG
 - AI Agents
 
----
+</td>
 
-## ☁️ AI Infrastructure
+<td width="33%" valign="top">
 
-- Linux
-- Docker
-- Kubernetes
-- Container Orchestration
+### ⚡ AI Infrastructure
+
+- CPU Architecture
 - GPUs
 - CUDA
+- TensorRT
+- Linux
+- Containers
+- Kubernetes
+- Networking
 - Distributed Systems
 - Distributed Training
-- Networking
 
----
+</td>
 
-## ☁️ Cloud Computing
+<td width="33%" valign="top">
 
-- Amazon Web Services (AWS)
+### ☁️ Cloud
+
+- AWS
 - EC2
 - ECS
 - EKS
@@ -133,11 +131,18 @@ This repository follows the philosophy of **Learning in Public**, where every da
 - IAM
 - S3
 - VPC
-- Load Balancers
+- Load Balancing
+- Cloud Architecture
 
----
+</td>
 
-## ⚙️ DevOps
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### ⚙️ DevOps
 
 - Git
 - GitHub
@@ -146,27 +151,32 @@ This repository follows the philosophy of **Learning in Public**, where every da
 - Terraform
 - Infrastructure as Code
 - Helm
-- ArgoCD
+- Argo CD
 - Prometheus
 - Grafana
 
----
+</td>
 
-## 📈 MLOps
+<td width="33%" valign="top">
+
+### 📈 MLOps
 
 - Model Deployment
 - ML Pipelines
 - MLflow
 - Kubeflow
 - Airflow
-- Feature Stores
 - Model Registry
-- Monitoring
 - Experiment Tracking
+- Monitoring
+- Model Serving
+- Production ML
 
----
+</td>
 
-## 💻 Programming
+<td width="33%" valign="top">
+
+### 💻 Engineering
 
 - Python
 - Bash
@@ -174,142 +184,173 @@ This repository follows the philosophy of **Learning in Public**, where every da
 - FastAPI
 - APIs
 - Automation
+- Linux CLI
+- Debugging
+- Systems Thinking
+- Architecture
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📚 Repository Structure
+# 🔄 From Model to Platform
 
+<div align="center">
+
+DailyEpoch follows the engineering path that connects an AI idea to a production system.
+
+</div>
+
+```text
+                         AI SYSTEM
+                             │
+           ┌─────────────────┴─────────────────┐
+           │                                   │
+           ▼                                   ▼
+      INTELLIGENCE                         SYSTEMS
+           │                                   │
+     ML / DL / LLMs                    CPU / GPU / CUDA
+     CV / NLP / RAG                    Linux / Networking
+           │                                   │
+           └─────────────────┬─────────────────┘
+                             ▼
+                         SOFTWARE
+                             │
+                    Python • APIs • Git
+                             │
+                             ▼
+                       CONTAINERS
+                             │
+                          Docker
+                             │
+                             ▼
+                      ORCHESTRATION
+                             │
+                        Kubernetes
+                             │
+                             ▼
+                           CLOUD
+                             │
+                            AWS
+                             │
+                             ▼
+                          MLOps
+                             │
+              CI/CD • Serving • Monitoring
+                             │
+                             ▼
+                  PRODUCTION AI SYSTEM
+                             │
+                             ▼
+                  AI PLATFORM ENGINEERING
 ```
-DailyEpoch/
 
-│
-├── Docs/
-│     PDF Notes
-│
-├── Images/
-│     Architecture diagrams
-│
-├── Code/
-│     Hands-on implementations
-│
-└── README.md
+> The objective is not simply to learn individual tools. It is to understand **how the layers interact as one engineering system**.
+
+---
+
+# 🧭 Engineering Trajectory
+
+<div align="center">
+
+### **Where the learning is heading**
+
+| 01 | 02 | 03 | 04 | 05 |
+|:---:|:---:|:---:|:---:|:---:|
+| 🧠 | ⚡ | 📦 | ☁️ | 🚀 |
+| **Understand** | **Infrastructure** | **Orchestrate** | **Scale** | **Operate** |
+| Models & Algorithms | Compute & Systems | Containers & Kubernetes | Cloud & Distributed Systems | Production AI |
+
+<br>
+
+**Models → Systems → Infrastructure → Platforms → Production**
+
+</div>
+
+This is intentionally not a completion checklist.
+
+DailyEpoch is the record of the progression itself — the **Engineering Logbook above is the source of truth** for what I have actually studied.
+
+---
+
+
+
+# 🌱 Current Focus
+
+<div align="center">
+
+### `SYSTEM STATUS // ACTIVE LEARNING`
+
+| Layer | Current Direction |
+|---|---|
+| 🧠 **AI** | Model architectures, Transformers & modern AI systems |
+| ⚡ **Compute** | CPU architecture, NVIDIA GPUs, CUDA & TensorRT |
+| 🐧 **Systems** | Linux, networking & infrastructure fundamentals |
+| 📦 **Platform** | Docker, Kubernetes & orchestration |
+| ☁️ **Cloud** | AWS infrastructure & distributed systems |
+| 📈 **Operations** | DevOps, MLOps, monitoring & production AI |
+
+</div>
+
+The current objective is to progressively connect these layers rather than study them in isolation.
+
+---
+
+# 🔗 Knowledge → Evidence
+
+DailyEpoch acts as the chronological layer of my learning ecosystem.
+
+```text
+                    DAILY LEARNING
+                          │
+                          ▼
+                    DailyEpoch
+                  Engineering Log
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+       AI / ML       AI INFRASTRUCTURE    CLOUD
+          │               │               │
+          ▼               ▼               ▼
+   Specialized       Specialized      Specialized
+   Repositories      Repositories     Repositories
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                   NOTES • CODE • LABS
+                          │
+                          ▼
+                       PROJECTS
+                          │
+                          ▼
+                      PORTFOLIO
 ```
 
----
+**DailyEpoch answers:** *What am I learning?*
 
-# 📒 Engineering Logbook
+**Specialized repositories answer:** *How deeply am I learning it?*
 
-> **Building AI systems from algorithms to production infrastructure—one day at a time.**
-
-Each daily entry includes:
-
-- 📅 Date
-- 🏷 Domain
-- 📖 Topic
-- 💡 Key Concepts
-- 🧠 Summary
-- 🌍 Production Relevance
-- 📄 Notes
-- 💻 Code
-- 🔗 Resources
-
----
-
-| **#** | **Date** | **Domain** | **Topic** | **Production Relevance** | **Key Takeaways** | **Artifacts** |
-|:----:|:---------|:-----------|:----------|:--------------------------|:------------------|:--------------|
-| 001 | 2026-08-27 | AI Infrastructure | **CPU Architecture and Memory Hierarchy: Cores, Cache, RAM, and Data Access** | Understanding CPU architecture and the memory hierarchy is fundamental to reasoning about application performance, data movement, latency, resource utilization, and the interaction between CPUs and accelerators in modern AI infrastructure. | Studied CPU cores, instruction execution, cache levels, RAM, memory hierarchy, data-access latency, and why moving data efficiently is critical to system performance. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/CPU-Architecture-and-Memory-Hierarchy.pdf) |
-| 002 | 2026-09-08 | 🧠 Language Models | **Transformers: Architecture, Self-Attention, and Modern Language Models** | Transformers provide the architectural foundation for modern LLMs, enabling parallel sequence processing, scalable training, and context-aware representations through attention mechanisms. | Studied Transformer architecture, self-attention, multi-head attention, positional encoding, encoder-decoder structure, feed-forward networks, residual connections, and how Transformers enable modern language models. | [📘 Notes](https://github.com/themodernengineer-tech/LanguageForge/blob/main/Docs/Transformers/transformers.pdf) |
-| 003 | 2026-09-09 | ⚡ AI Infrastructure | **NVIDIA Infrastructure: CUDA and TensorRT Overview** | CUDA and TensorRT are core components of NVIDIA's accelerated computing stack, enabling GPU-accelerated workloads and optimized high-performance inference for production AI systems. | Studied the role of CUDA in GPU-accelerated computing, the CUDA software ecosystem, TensorRT's role in inference optimization, and how these technologies connect AI applications with NVIDIA GPU infrastructure. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/NVIDIA-Infrastructure-CUDA-and-TensorRT-Overview.pdf) |
-| 004 | 2026-08-03 | ☁️ AWS | Amazon EKS | Managed Kubernetes service. | Kubernetes on AWS and production use cases. | 📘 Notes |
-| 005 | 2026-08-03 | ☁️ AWS | AWS Fargate | Serverless compute for containers. | Infrastructure-free container deployments. | 📘 Notes |
-
----
-
-# 🚀 Roadmap Progress
-
-## Artificial Intelligence
-
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] CNNs
-- [ ] RNNs
-- [ ] Transformers
-- [ ] LLMs
-- [ ] RAG
-- [ ] AI Agents
-
----
-
-## AI Infrastructure
-
-- [ ] Linux
-- [ ] Docker
-- [ ] Docker Compose
-- [ ] Kubernetes
-- [ ] Helm
-- [ ] GPUs
-- [ ] CUDA
-
----
-
-## Cloud
-
-- [ ] AWS EC2
-- [ ] AWS ECS
-- [ ] AWS EKS
-- [ ] AWS Fargate
-- [ ] IAM
-- [ ] VPC
-- [ ] Load Balancing
-
----
-
-## DevOps
-
-- [ ] Git
-- [ ] GitHub Actions
-- [ ] Terraform
-- [ ] CI/CD
-- [ ] Prometheus
-- [ ] Grafana
-
----
-
-## MLOps
-
-- [ ] MLflow
-- [ ] Kubeflow
-- [ ] Airflow
-- [ ] Model Deployment
-- [ ] Monitoring
-
----
-
-## Projects
-
-- [ ] Containerized AI Application
-- [ ] Kubernetes Deployment
-- [ ] RAG Pipeline
-- [ ] AI Platform
-- [ ] End-to-End MLOps Pipeline
-
----
-
-# 🌱 Current Goal
-
-I'm currently focused on building a strong foundation in AI, cloud infrastructure, containerization, Kubernetes, DevOps, and MLOps to become an engineer capable of developing, deploying, and operating production-ready AI systems.
+**Projects answer:** *Can I apply it?*
 
 ---
 
 # 🤝 Connect
 
-If you're also learning AI, Cloud, Kubernetes, DevOps, or MLOps, feel free to connect, share feedback, or discuss ideas.
+If you're also learning or working across **AI, AI Infrastructure, Cloud, Kubernetes, DevOps, or MLOps**, feel free to connect, share feedback, or discuss engineering ideas.
 
-Let's build, learn, and grow together.
+<div align="center">
 
----
+### **Learn in Public. Build in Public. Engineer in Public.**
+
+<br>
 
 > **"Every commit is a lesson. Every note is a building block. Every day is another step toward engineering intelligent systems at scale."**
----
 
-> 🧩 *“Every day logged is another gradient in the space of understanding.”*
+<br>
+
+🧩 *“Every day logged is another gradient in the space of understanding.”*
+
+</div>
